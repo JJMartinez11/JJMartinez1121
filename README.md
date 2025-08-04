@@ -8,9 +8,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://github.com/Kathryn-Jie">JJ Martinez <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"</h1>
 <h3 align="center">System engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
 <p align="center">
-<a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a>
- <a href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
 
